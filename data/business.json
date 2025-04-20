@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 54,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Reuters",
+        "title": "Boeing jet earmarked for China returns to the U.S. from China amid tariff war - CNBC",
+        "description": "A Boeing jet earmarked for China was returning to the United States on Friday as the planemaker's flagship delivery plant was drawn into a deepening tariff war.",
+        "url": "https://www.cnbc.com/2025/04/19/boeing-jet-returns-to-the-us-from-china-amid-tariff-war.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107363928-1706117735807-gettyimages-1456392163-vcg111417756772.jpeg?v=1706117771&w=1920&h=1080",
+        "publishedAt": "2025-04-19T16:53:33Z",
+        "content": "A Boeing jet earmarked for China was returning to the United States on Friday, flight tracking data showed, as the planemaker's flagship delivery plant outside Shanghai was drawn into a deepening tar… [+4491 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "mlive.com"
+        },
+        "author": "Matt Durr | mattdurr@mlive.com",
+        "title": "These Ford vehicles made in Michigan are no longer being sent to China thanks to tariffs - MLive.com",
+        "description": "In retaliation to Trump's tariffs on Chinese goods, China instituted a tariff of up to 150% on vehicles imported from the U.S.",
+        "url": "https://www.mlive.com/news/2025/04/these-ford-vehicles-made-in-michigan-are-no-longer-being-sent-to-china-thanks-to-tariffs.html",
+        "urlToImage": "https://www.mlive.com/resizer/v2/ID4TU5MLRJHNNLW2EVRTSZNHNM.jpg?auth=46d7d2f9d7e2e4647bc7e5be6853b43abd041574d99718467664633b675cc851&width=1280&quality=90",
+        "publishedAt": "2025-04-19T16:26:00Z",
+        "content": "The ongoing trade war between the U.S. and China has again impacted the auto industry. According to USA Today, Ford Motor Co. has stopped shipping certain vehicles to China thanks to massive tariffs … [+962 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Dpradhanbjp.com"
+        },
+        "author": "Soniya Sahota",
+        "title": "$1,304 Monthly Checks For SSI & SSDI In 2025, Check Payment Dates - dpradhanbjp.com",
+        "description": "The proposed legislation for a $1,304 Monthly Checks For SSI & SSDI In 2025 is on track for Congressional approval by April 2025. This bill intends to",
+        "url": "https://dpradhanbjp.com/1304-monthly-checks-for-ssi-ssdi/",
+        "urlToImage": "https://dpradhanbjp.com/wp-content/uploads/2025/04/1304-Monthly-Checks-For-SSI-SSDI-In-2025.jpg",
+        "publishedAt": "2025-04-19T15:55:00Z",
+        "content": "The proposed legislation for a $1,304 Monthly Checks For SSI &amp; SSDI In 2025 is on track for Congressional approval by April 2025. This bill intends to modify the asset limits for SSI, increasing … [+5068 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Lauren Feiner",
+        "title": "Google is in more danger than ever of being broken up - The Verge",
+        "description": "Google will begin arguments to keep its Chrome browser in a remedies trial over its monopoly in search. It will soon face a trial over its monopoly in ad tech.",
+        "url": "https://www.theverge.com/policy/652170/google-search-ad-tech-remedies-antitrust-chrome-breakup",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-04-19T14:00:00Z",
+        "content": "Google will fight to keep its Chrome browser in a search antitrust trial starting Monday, after losing an ad-tech suit.\r\nGoogle will fight to keep its Chrome browser in a search antitrust trial start… [+5515 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Sarah Perez, Aisha Malik, Lauren Forristal",
+        "title": "Read what Mark Zuckerberg and Facebook execs said about Instagram before buying it - TechCrunch",
+        "description": "The first week of the Meta antitrust trial brought new revelations about how the company formerly known as Facebook approached the competitive threat",
+        "url": "https://techcrunch.com/2025/04/19/read-what-mark-zuckerberg-and-facebook-execs-said-about-instagram-before-buying-it/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802",
+        "publishedAt": "2025-04-19T14:00:00Z",
+        "content": "The first week of the Meta antitrust trial brought new revelations about how the company formerly known as Facebook approached the competitive threat posed by Instagram in the early 2010s.\r\nThe U.S. … [+5083 chars]"
+      }
+    ]
+  }

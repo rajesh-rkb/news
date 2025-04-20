@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Nintendoeverything.com"
+        },
+        "author": null,
+        "title": "Nintendo on new Mario game for Switch 2: \"Stay tuned\" - Nintendo Everything",
+        "description": null,
+        "url": "https://nintendoeverything.com/nintendo-on-new-mario-game-for-nintendo-switch-2-stay-tuned/",
+        "urlToImage": null,
+        "publishedAt": "2025-04-19T20:02:40Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Paul Tassi",
+        "title": "New ‘Marathon’ Info About The Closed Alpha, NDAs And Open Beta - Forbes",
+        "description": "There's new information about Marathon's no longer-NDAed Closed Alpha, and it's upcoming Open Beta which is still a ways off.",
+        "url": "https://www.forbes.com/sites/paultassi/2025/04/19/new-marathon-info-about-the-closed-alpha-ndas-and-open-beta/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6803e52e47ec3a9ddc627ab9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-04-19T18:13:02Z",
+        "content": "Marathon\r\nBungie\r\nThe Marathon vibes have been shifting a bit more toward the positive with A) Bungie spooling up some new cool marketing and bits and pieces of content now that Closed Alpha codes ar… [+3085 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Zak Doffman",
+        "title": "Google Confirms Gmail Warning—Stop Using Your Password Now - Forbes",
+        "description": "Do not lose your account—do this now.",
+        "url": "https://www.forbes.com/sites/zakdoffman/2025/04/19/google-confirms-gmail-update-stop-using-your-password-now/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672917de30558ca355afff3b/0x0.jpg?format=jpg&crop=1014,571,x259,y476,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-04-19T16:45:10Z",
+        "content": "Gmail is under attack\r\nNurPhoto via Getty Images\r\nUpdate: Republished on April 19 with additional coverage of this latest attack and a warning for users to follow two critical Google account recommen… [+5111 chars]"
+      },
+      {
+        "source": {
+          "id": "ign",
+          "name": "IGN"
+        },
+        "author": "Callum Williams",
+        "title": "PlayStation Plus: The Best Games to Play With Your Subscription (April 2025) - IGN",
+        "description": "New to PlayStation Plus? Try out these great games.",
+        "url": "https://www.ign.com/articles/playstation-plus-best-games-from-each-subscription-tier",
+        "urlToImage": "https://assets-prd.ignimgs.com/2023/10/11/pspremiumthumb-1697040053191.jpg?width=1280",
+        "publishedAt": "2025-04-19T16:31:32Z",
+        "content": "With Sony revamping the service back in 2022, PlayStation Plus has changed a lot in the last few years. Learning from the success of services like Xbox Game Pass and implementing a library of games p… [+21646 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nintendo Life"
+        },
+        "author": "Liam Doolan",
+        "title": "amiibo Could Be Getting A Price Hike, According To GameStop Listings (US) - Nintendo Life",
+        "description": "Nintendo has already confirmed an increase on accessory prices",
+        "url": "https://www.nintendolife.com/news/2025/04/amiibo-could-be-getting-a-price-hike-according-to-gamestop-listings-us",
+        "urlToImage": "https://images.nintendolife.com/29a256c0203fa/large.jpg",
+        "publishedAt": "2025-04-19T15:03:12Z",
+        "content": "Image: Nintendo\r\nThe price of Switch 2 accessories in the US has officially been adjusted by Nintendo \"due to changes in market conditions\" and there are now claims this could impact amiibo next.\r\nAc… [+1670 chars]"
+      }
+    ]
+  }

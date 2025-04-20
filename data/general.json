@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "",
+        "title": "Protesters unite against Trump in hundreds of rallies across the U.S. - NPR",
+        "description": "A grassroots-led campaign organized hundreds of protests and events across the U.S. Organizers say the momentum built on resistance against the Trump administration has not slowed.",
+        "url": "https://www.npr.org/2025/04/19/nx-s1-5369483/anti-trump-protests-50501-tesla-takedown",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7299x4106+0+752/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2F9d%2Fd5ab3e6e4662a77449536878ba59%2Fap25109647988875.jpg",
+        "publishedAt": "2025-04-19T20:15:12Z",
+        "content": "Protesters turned out to demonstrate against the Trump administration in cities across the U.S. on Saturday, with organizers hoping to seize on what they say is growing resistance to anti-democratic … [+3402 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Putin declares 'Easter truce', as Ukraine says he 'cannot be trusted' - BBC",
+        "description": "The Russian president says he ordered his forces to \"stop all military activity\" until the end of Sunday.",
+        "url": "https://www.bbc.com/news/articles/c787v5gxny7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5767/live/db076e40-1d28-11f0-b700-f1f963c8c095.jpg",
+        "publishedAt": "2025-04-19T19:23:24Z",
+        "content": "Russian President Vladimir Putin says he has ordered his forces to \"stop all military activity\" in Ukraine, as he declared an \"Easter truce\" until the end of Sunday. \r\nHe said the 30-hour truce would… [+3009 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Germain Lussier",
+        "title": "Dave Filoni Explains the Impact Losing Ray Stevenson Had on Ahsoka Season 2 - Gizmodo",
+        "description": "Game of Thrones actor Rory McCann is in season two of Ahsoka, taking over the role of Baylan Skoll from the late Ray Stevenson.",
+        "url": "https://gizmodo.com/dave-filoni-explains-the-impact-losing-ray-stevenson-had-on-ahsoka-season-2-2000591812",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Baylan-Skoll-SWCJ-1.jpg",
+        "publishedAt": "2025-04-19T18:52:12Z",
+        "content": "When Ray Stevenson died, Ahsoka season two almost died with it. Dave Filoni, the show’s creator, was at Star Wars Celebration Japan this weekend and did a panel about his Disney+ show. Along the way,… [+3466 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Kwiyeon Ha, Pan Pylas",
+        "title": "Thousands gather in London to support trans rights following UK ruling over definition of woman - AP News",
+        "description": "Thousands of trans rights protesters gathered in central London, days after the U.K.‘s Supreme Court ruled that a woman is someone born biologically female and that transgender women are excluded from that legal definition. With growing unease over what it me…",
+        "url": "https://apnews.com/article/britain-trans-rights-protest-court-ruling-london-63efca6104673e6b8647a20a0705683f",
+        "urlToImage": "https://dims.apnews.com/dims4/default/b9a0905/2147483647/strip/true/crop/7912x4451+0+412/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F43%2F22%2Fcdb977eab0d3212739f3c39f0b7a%2Fcdceb0f1063f458096d02a3a3795a6d7",
+        "publishedAt": "2025-04-19T17:02:00Z",
+        "content": "LONDON (AP) Thousands of trans rights protesters gathered in central London on Saturday, days after the U.K.'s Supreme Court ruled that a woman is someone born biologically female and that transgende… [+2318 chars]"
+      }
+    ]
+  }

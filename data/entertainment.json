@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 42,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Germain Lussier",
+        "title": "Dave Filoni Explains the Impact Losing Ray Stevenson Had on Ahsoka Season 2 - Gizmodo",
+        "description": "Game of Thrones actor Rory McCann is in season two of Ahsoka, taking over the role of Baylan Skoll from the late Ray Stevenson.",
+        "url": "https://gizmodo.com/dave-filoni-explains-the-impact-losing-ray-stevenson-had-on-ahsoka-season-2-2000591812",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/04/Baylan-Skoll-SWCJ-1.jpg",
+        "publishedAt": "2025-04-19T18:52:12Z",
+        "content": "When Ray Stevenson died, Ahsoka season two almost died with it. Dave Filoni, the show’s creator, was at Star Wars Celebration Japan this weekend and did a panel about his Disney+ show. Along the way,… [+3466 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Page Six"
+        },
+        "author": "Eileen Reslen",
+        "title": "'RHOC' alum Lydia McLaughlin 'devastated' after brother is fatally shot by police during traffic stop - Page Six",
+        "description": "Geoffrey Shyam Stirling was reportedly pulled over by police while driving his motorcycle on Thursday.",
+        "url": "https://pagesix.com/2025/04/19/celebrity-news/rhoc-alum-lydia-mclaughlin-devastated-after-brother-is-fatally-shot-by-police-during-traffic-stop/",
+        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/04/102965060.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-04-19T18:11:23Z",
+        "content": "Lydia McLaughlin, who appeared on two seasons of “The Real Housewives of Orange County,” is heartbroken after her brother was fatally shot by police earlier this week.\r\n“My family and I are devastate… [+2773 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Dan Heching",
+        "title": "Lady Gaga apologized for mic issues at Coachella set and flexed her talent - CNN",
+        "description": "The madame of “Mayhem” Lady Gaga was again on the main stage at Coachella on Friday night for weekend 2, and she didn’t let some momentary tech glitches stop her.",
+        "url": "https://www.cnn.com/2025/04/19/entertainment/lady-gaga-mic-issues-coachella/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2209915571-20250419172223550.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-04-19T17:25:00Z",
+        "content": "The madame of Mayhem Lady Gaga was again on the main stage at Coachella on Friday night for the events second weekend, and she didnt let some momentary tech glitches stop her.\r\nAs she did on the firs… [+1143 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Leah Asmelash",
+        "title": "Why the 20-year-old ‘Pride & Prejudice’ film still bewitches audiences today - CNN",
+        "description": "Joe Wright’s “Pride & Prejudice,” starring Keira Knightley, is returning to theaters. In an age of dating apps, we examine why the 2005 film adaptation of Jane Austen’s work continues to resonate with audiences.",
+        "url": "https://www.cnn.com/2025/04/19/entertainment/pride-prejudice-film-20th-anniversary-cec/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-8511801h.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-04-19T15:30:00Z",
+        "content": "One of the most iconic scenes in Pride &amp; Prejudice (2005) is the first proposal scene.\r\nEven those who have yet to watch the beloved movie likely have some idea of the shot. Pummelled by the rain… [+7250 chars]"
+      }
+    ]
+  }
