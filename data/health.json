@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Virginia.gov"
+        },
+        "author": null,
+        "title": "Virginia Health Officials Confirm First 2025 Measles Case in the State – Newsroom - Virginia Department of Health (.gov)",
+        "description": null,
+        "url": "https://www.vdh.virginia.gov/news/2025-news-releases/virginia-health-officials-confirm-first-2025-measles-case-in-the-state/",
+        "urlToImage": null,
+        "publishedAt": "2025-04-19T15:12:35Z",
+        "content": "FOR IMMEDIATE RELEASE April 19, 2025Media Contact: Brookie Crawford, brookie.crawford@vdh.virginia.gov\r\nVirginia Health Officials Confirm First 2025 Measles Case in the StateVirginia Department of He… [+4663 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "The Conversation",
+        "title": "Here's How to Interpret The Concerning Link Between Cooking Oil And Cancer - ScienceAlert",
+        "description": "There's now lots of evidence which shows that our own diets and the foods we eat can influence the outcome if we are unlucky enough to suffer from cancer.",
+        "url": "https://www.sciencealert.com/heres-how-to-interpret-the-concerning-link-between-cooking-oil-and-cancer",
+        "urlToImage": "https://www.sciencealert.com/images/2024/07/OliveOil.jpg",
+        "publishedAt": "2025-04-19T15:04:35Z",
+        "content": "There's now lots of evidence which shows that our own diets and the foods we eat can influence the outcome if we are unlucky enough to suffer from cancer.\r\nScientists are especially interested in how… [+5350 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "mindbodygreen.com"
+        },
+        "author": "https://www.mindbodygreen.com/wc/gretchen-lidicker",
+        "title": "If You Rely On This To Poop, You May Be At Greater Risk Of Dementia - MindBodyGreen",
+        "description": "Here are safer ways to get things moving fast.",
+        "url": "https://www.mindbodygreen.com/articles/if-you-rely-on-this-to-poop-you-may-be-at-risk-of-dementia-safer-ways-to-get-things-moving",
+        "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/tgcdgyihgkar86g7h.jpg",
+        "publishedAt": "2025-04-19T14:18:55Z",
+        "content": "Whether you're having a stressful week or are on vacation, we all need a little help getting things moving every now and then. Taking over-the-counter (OTC) laxatives is a quick, popular way to relie… [+4315 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": null,
+        "title": "Replacing Meat With Plants Could Add Years to Your Life, According to New Study - SciTechDaily",
+        "description": "However, for children under five, higher levels of animal-based protein were linked to lower mortality rates. A global study led by researchers at the University of Sydney has found that countries with higher consumption of plant-based proteins, such as chick…",
+        "url": "https://scitechdaily.com/replacing-meat-with-plants-could-add-years-to-your-life-according-to-new-study/",
+        "urlToImage": "https://scitechdaily.com/images/Healthy-Plant-Based-Diet.jpg",
+        "publishedAt": "2025-04-19T13:35:22Z",
+        "content": "A global study led by the University of Sydney found that countries with higher consumption of plant-based proteins like legumes and tofu tend to have longer adult life expectancies. While animal-bas… [+3758 chars]"
+      }
+    ]
+  }
